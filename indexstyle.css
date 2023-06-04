@@ -1,0 +1,128 @@
+.header{
+    
+    display: inline-block;
+    background-color: white;
+    padding: 0px 0px 15px 80px;
+    height: 30px;
+    /* width: 100%; */
+   /* margin-bottom: 100%; */
+}
+.icons{
+    display: inline-block;
+    padding-right: 5px;
+}
+.menu{
+    height: 30px;
+    /* width: 100%; */
+    padding: 5px 60px 5px 60px;
+}
+
+.menu-items{
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+}
+
+.main{
+    height: 350px;
+    padding: 0px 20px 0px 20px;
+    position: relative;
+}
+
+.uppertext{
+    position: absolute;
+    top: 60px;
+    left: 60px;
+}
+.bottomtext{
+    position: absolute;
+    top: 140px;
+    left: 60px;
+}
+.box1{
+    position: absolute;
+   background-color: cornflowerblue;
+   top: 180px;
+   left: 80px;
+}
+
+.box2{
+    position: absolute;
+    background-color: white;
+    top: 180px;
+    left: 210px;
+}
+
+.maincontainer{
+    height: 200px;
+}
+.Childb{
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 0px 30px 0px 30px;
+
+}
+.Romb{
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 0px 30px 0px 30px;
+
+}
+.Artb{
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 0px 30px 0px 30px;
+
+}
+.Hisb{
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 0px 30px 0px 30px;
+
+}
+#textal{
+    text-align: center;
+}
+
+.footer{
+    height: 120px;
+    background-color: wheat;
+    
+}
+.first{
+    display: inline-block;
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 0px 70px 0px 70px;
+}
+.Second{
+    display: inline-block;
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 0px 70px 0px 70px;
+}
+.Third{
+    display: inline-block;
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 0px 70px 0px 70px;
+
+}
+.Fourth{
+    display: inline-block;
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 0px 70px 0px 70px;
+
+}
