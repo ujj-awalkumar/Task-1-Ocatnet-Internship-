@@ -23,15 +23,14 @@
 
 #search{
     padding: 0px 0px 0px 250px;
-    /* margin: 0px 0px 0px 600px; */
+    
 }
 #heading{
     padding: 0px 0px 0px 10px;
-    /* margin: 0px 0px 0px 20px; */
+   
 }
 .menu{
     height: 30px;
-    /* width: 100%; */
     padding: 5px 60px 5px 60px;
 }
 
@@ -50,17 +49,23 @@
     position: absolute;
     top: 60px;
     left: 60px;
+    color: orangered;
+    text-decoration: underline;
 }
 .bottomtext{
     position: absolute;
     top: 140px;
     left: 60px;
+    font-size: 1.1pc;
+   /* color: firebrick; */
+   color: magenta;
 }
 .box1{
     position: absolute;
    background-color: cornflowerblue;
    top: 180px;
    left: 80px;
+   font-size: 1.15pc;
 }
 
 .box2{
@@ -68,6 +73,7 @@
     background-color: white;
     top: 180px;
     left: 210px;
+    font-size: 1.15pc;
 }
 
 .maincontainer{
@@ -80,6 +86,7 @@
     text-align: center;
     margin: 20px 10px 20px 10px;
     padding: 0px 30px 0px 30px;
+    font-size: 1pc;
 
 }
 .Romb{
@@ -89,6 +96,7 @@
     text-align: center;
     margin: 20px 10px 20px 10px;
     padding: 0px 30px 0px 30px;
+    font-size: 1pc;
 
 }
 .Artb{
@@ -98,6 +106,7 @@
     text-align: center;
     margin: 20px 10px 20px 10px;
     padding: 0px 30px 0px 30px;
+    font-size: 1pc;
 
 }
 .Hisb{
@@ -107,6 +116,7 @@
     text-align: center;
     margin: 20px 10px 20px 10px;
     padding: 0px 30px 0px 30px;
+    font-size: 1pc;
 
 }
 #imgcol{
@@ -126,18 +136,24 @@
     text-align: center;
     margin: 20px 10px 20px 10px;
     padding: 0px 70px 0px 70px;
+    font-size: 1pc;
+    font-weight: bold;
 }
 .Second{
     display: inline-block;
     text-align: center;
     margin: 20px 10px 20px 10px;
     padding: 0px 70px 0px 70px;
+    font-size: 1pc;
+    font-weight: bold;
 }
 .Third{
     display: inline-block;
     text-align: center;
     margin: 20px 10px 20px 10px;
     padding: 0px 70px 0px 70px;
+    font-size: 1pc;
+    font-weight: bold;
 
 }
 .Fourth{
@@ -145,5 +161,7 @@
     text-align: center;
     margin: 20px 10px 20px 10px;
     padding: 0px 70px 0px 70px;
+    font-size: 1pc;
+    font-weight: bold;
 
 }
